@@ -1,0 +1,7 @@
+main: uk.co.anttheantster.antschunkbuster.AntsChunkBuster
+name: AntsChunkBuster
+version: 1.0
+api-version: 1.19
+commands:
+  acb:
+    description: Give the player 'x' amount of chunk busters (Permission - acb.give)

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AntsChunkBuster">
+    <output-path>$USER_HOME$/Desktop/PluginOutputs</output-path>
+    <root id="archive" name="AntsChunkBuster.jar">
+      <element id="module-output" name="AntsChunkBuster" />
+    </root>
+  </artifact>
+</component>

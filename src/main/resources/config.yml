@@ -1,0 +1,15 @@
+# Thank You for downloading AntsChunkBuster
+# For support, please join my discord and make a ticket!
+# Discord: https://discord.link/AntsPlugins
+
+# Copyright AntTheAntster 2023. All Rights Reserved. Do Not Redistribute Without Permission.
+
+#Settings:
+ChunkBuster:
+  BlockItem: "TNT" #NOTE: Only use blocks otherwise how are you going to place a chunkbuster?
+  Name: "&7[&bAntsChunkBuster&7]"
+  Timer: 10 #How much time the player has to leave the chunk
+  DestroyBedrock: true #Should the Chunk Buster Destroy bedrock? (true/false)
+  Cooldown:
+    Enabled: false #Enable a cooldown between each chunkbuster placement?
+    Timer: 30 #Cooldown in seconds
